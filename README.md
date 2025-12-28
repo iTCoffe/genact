@@ -120,3 +120,7 @@ This is mostly a note for me on how to release this thing:
 - `cargo release --execute <version>`
 - Releases will automatically be deployed by GitHub Actions.
 - Update Arch package.
+
+<p align="center">
+  <img src="https://iTaoPu.Github.io/言家稗子-标准色版.png" alt="微信公眾號" />
+</p>
